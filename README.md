@@ -78,14 +78,14 @@ Mr. Skeleton is fully compatible with the following All windows versions:
 
 
 
-[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/Mr-Skeleton/main/img/1.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "MR.Octopus v1.0.1 | Android Advance penetration framework | WH-Cyberspace ( PC )")
+[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/Mr-Skeleton/main/img/1.png)](https://www.youtube.com/channel/UC_JrCVyTGUM0wopBEzxIt9w?sub_confirmation=1 "MR.Octopus v1.0.1 | Android Advance penetration framework | WH-Cyberspace ( PC )")
 
-[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/Mr-Skeleton/main/img/2.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "MR.Octopus v1.0.1 | Android Advance penetration framework | WH-Cyberspace ( PC )")
+[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/Mr-Skeleton/main/img/2.png)](https://www.youtube.com/channel/UC_JrCVyTGUM0wopBEzxIt9w?sub_confirmation=1 "MR.Octopus v1.0.1 | Android Advance penetration framework | WH-Cyberspace ( PC )")
 
-[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/Mr-Skeleton/main/img/3.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "MR.Octopus v1.0.1 | Android Advance penetration framework | WH-Cyberspace ( PC )")
+[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/Mr-Skeleton/main/img/3.png)](https://www.youtube.com/channel/UC_JrCVyTGUM0wopBEzxIt9w?sub_confirmation=1 "MR.Octopus v1.0.1 | Android Advance penetration framework | WH-Cyberspace ( PC )")
 
 
-[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/Mr-Skeleton/main/img/4.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "MR.Octopus v1.0.1 | Android Advance penetration framework | WH-Cyberspace ( PC )")
+[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/Mr-Skeleton/main/img/4.png)](https://www.youtube.com/channel/UC_JrCVyTGUM0wopBEzxIt9w?sub_confirmation=1 "MR.Octopus v1.0.1 | Android Advance penetration framework | WH-Cyberspace ( PC )")
 
 <br /><br />
 
