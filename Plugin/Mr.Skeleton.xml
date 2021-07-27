@@ -6,7 +6,7 @@ windows
 </name>
 </assembly>
 <members>
-<member name="T:Mr._Skeleton.My.Resources.Resources">
+<member name="T:windows.My.Resources.Resources">
 <summary>
   A strongly-typed resource class, for looking up localized strings, etc.
 </summary>
